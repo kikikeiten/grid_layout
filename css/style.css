@@ -150,3 +150,7 @@ a:link, a:visited, a:hover, a:active {
     border-bottom: 1px solid #7c5119;
     transition: width 0.3s ease-in-out;
 }
+
+.nav-item a:hover::after {
+    width: 100%;
+}
