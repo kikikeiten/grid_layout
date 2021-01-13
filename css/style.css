@@ -107,3 +107,9 @@ a:link, a:visited, a:hover, a:active {
 .item-l .image {
     height: 403px;
 }
+
+.header {
+    padding: 25px;
+    border-bottom: none;
+    text-align: center;
+}
