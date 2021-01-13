@@ -113,3 +113,8 @@ a:link, a:visited, a:hover, a:active {
     border-bottom: none;
     text-align: center;
 }
+
+.logo {
+    width: 136px;
+    height: 136px;
+}
