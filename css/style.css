@@ -117,9 +117,11 @@ a:link, a:visited, a:hover, a:active {
 .logo {
     width: 136px;
     height: 136px;
+    transition: -webkit-transform 0.3s;
     transition: transform 0.3s;
 }
 
 .logo:hover {
+    -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
 }
